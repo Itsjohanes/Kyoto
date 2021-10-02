@@ -63,6 +63,7 @@
       <embed src = "https://www.youtube.com/embed/qJhyK_Kpg3k"> </embed>
       <embed src = "https://www.youtube.com/embed/iEK9kSHmdgo"> </embed>
       <embed src = "https://www.youtube.com/embed/9Yf7tDyoyfk"> </embed>
+  </header>
 <br>
 <h2>Photo</h2>
 <h3>Food/Culinary</h3>
@@ -74,10 +75,15 @@
 <img src = "nama.jpg" width="500px" height="300px" alt = "nama">
 <p>Nama Yatsuhashi is  typical Kyoto cake is most often used as a souvenir for Kyoto tourists. The shape is small, but it tastes sweet and delicious. This cake will make you miss Kyoto all the time.</p>
 <h3>Destination</h3>
-
-
-
-  </header>
+<img src = "kizo.jpg" width = "500px" height="300px" alt = "kizo">
+<p>Kiyomizu-dera is an ancient Buddhist temple that dates back to 798.However, this shrine is often under repair due to frequent natural disasters in Japan.Kiyomizu Temple will be very crowded with visitors who want to see the view of Kyoto city from above.</p>
+<img src = "fushimi.jpg"width = "500px" height="300px" alt = "fushimi">
+<p>For those of you who want to take pictures and enjoy the beauty of Shinto shrines in Japan, you can choose Fushimi Inari Taisha as a favorite tourist spot.
+This shrine is located in Fushimi-ku, Kyoto, Japan.The uniqueness of the Fushimi Inari Taisha tour is that there are rows of red gates on the side of the entrance of this shrine.The afternoon before sunset is the best time to visit and take pictures of one of the most beautiful temples.In addition, visitors can rest and enjoy typical food from restaurants around here.Interested in a vacation to one of the famous tourist attractions in Kyoto?</p>
+<img src = "ysaka.jpg" width="500px" height="300px" alt = "ysaka">
+<p>Yasaka Shrine is a Shinto shrine complex located in the Gion area of ​​Kyoto.This shrine is often known for its extraordinary Gion festival.
+Gion Festival to welcome summer in Kyoto in mid-July. You can visit Yasaka Shrine at night, there are many sparkling and very beautiful lanterns in this tourist area.
+In addition, you can also enjoy snacks in the temple area.</p>
   </div>
 
 </div>
