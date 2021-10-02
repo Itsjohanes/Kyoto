@@ -29,7 +29,7 @@
   /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
   .navbar {
     overflow: hidden;
-    background-color: rgb(241, 161, 12);
+    background-color: #F44336;
     position: sticky;
     position: -webkit-sticky;
     top: 0;
@@ -107,12 +107,7 @@
   a{
     color:black;
 }
- .form_pesan
- {
-   padding:10px;
-   text-align: center;
-   background-color: #87AAD2;
- }
+
 
   .img {
     width: 150px;
@@ -129,15 +124,30 @@
     text-align: center;
     background-color: #F44336;
   }
-  input[type=submit]{
-    background-color: green;
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
     border: none;
-    color: black;
-    padding: 4px 4px;
-    text-decoration: none;
-    margin: 2px 2px;
+    border-radius: 4px;
     cursor: pointer;
-}
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
 
   @media screen and (max-width: 700px) {
     .row {   
